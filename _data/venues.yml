@@ -1,6 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"HPCA":
+  color: "#005a32"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"DAC":
+  color: "#41ab5d"
+
+"ICCD":
+  color: "#41ab5d"
+
+"KICS":
+  color: "#4eb3d3"
