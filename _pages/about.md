@@ -8,8 +8,9 @@ profile:
   align: right
   image: MyPhoto.jpg
   image_circular: false # crops the image to make it circular
-  address: > # TODO: Add office later
-   <p style="font-size:85%"> Email: jhwoo36[@]ece.ubc.ca </p>
+  address: > 
+    <p style="font-size:80%">Office: 4025 Fred Kaiser, UBC</p>  
+    <p style="font-size:80%">Email: jhwoo36[@]ece.ubc.ca</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
