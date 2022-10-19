@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: <a>* indicates equal contribution.</a>
-years: [2021]
+years: [2023, 2021]
 poster_years: [2021]
 domestic_years: [2019, 2017]
 nav: true
