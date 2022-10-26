@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jeonghyunwoo0306.github.io/sitemap.xml
+Sitemap: https://seoyoung27.github.io/sitemap.xml
